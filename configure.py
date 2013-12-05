@@ -89,6 +89,7 @@ available_targets = {
                 {'gpu' : 'cayman',  'aliases' : ['aruba']},
                 {'gpu' : 'tahiti',  'aliases' : ['pitcairn', 'verde', 'oland', 'bonaire', 'kabini', 'kaveri', 'hawaii']}]},
   'nvptx--nvidiacl'   : { 'devices' : [{'gpu' : '', 'aliases' : []}] },
+  'nvptx--bugle'   : { 'devices' : [{'gpu' : '', 'aliases' : []}] },
   'nvptx64--nvidiacl' : { 'devices' : [{'gpu' : '', 'aliases' : []}] }
 }
 
